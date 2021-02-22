@@ -1,0 +1,30 @@
+{
+  "name": "react-sns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyunjin0905/react-sns.git"
+  },
+  "author": "HyunJin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyunjin0905/react-sns/issues"
+  },
+  "homepage": "https://github.com/hyunjin0905/react-sns#readme",
+  "dependencies": {
+    "next": "^9.5.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.20.0",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  }
+}
