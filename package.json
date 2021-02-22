@@ -18,9 +18,12 @@
   },
   "homepage": "https://github.com/hyunjin0905/react-sns#readme",
   "dependencies": {
+    "@ant-design/icons": "^4.5.0",
+    "antd": "^4.12.3",
     "next": "^9.5.5",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.2.1"
   },
   "devDependencies": {
     "eslint": "^7.20.0",

@@ -4,7 +4,6 @@ const Home = () => {
     return(
         <AppLayout>
             <div></div>
-
         </AppLayout>
     );
 }

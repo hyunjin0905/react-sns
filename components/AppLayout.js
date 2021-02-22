@@ -2,18 +2,43 @@
 import React from "react";
 import PropTypes from 'prop-types';
 import Link from 'next/link';
+import "antd/dist/antd.css"
+import { Menu, Input, Row, Col } from 'antd';
+
 const AppLayout = ({children}) => {
     return (
-        <div>
-            <Link href ="/"><a>트위티</a></Link>
-            <Link href ="/profile"><a>프로필</a></Link>
-            <Link href ="/signup"><a>회원가입</a></Link>
-            <div>공통메뉴</div>
-            {children}
-        </div>
+        <>
+            <Menu mode="horizontal">
+                <Menu.Item>
+                    <Link href ="/"><a>트위티</a></Link>
+                </Menu.Item>
+                <Menu.Item>
+                    <Link href ="/profile"><a>프로필</a></Link>
+                </Menu.Item>
+                <Menu.Item>
+                    <Input.Search  enterButton style ={{verticalAlign: 'middle'}}/>
+                </Menu.Item>
+                <Menu.Item>
+                    <Link href ="/signup"><a>회원가입</a></Link>
+                </Menu.Item>
+                {children}
+            </Menu>
+            <Row gutter={8}>
+                <Col xs={24} md={6}>
+                  왼쪽메뉴
+                </Col>
+                <Col xs={24} md={12}>
+                    {children}
+                 </Col>
+                <Col xs={24} md={6}>
+                   오른쪽메뉴
+                </Col>
+            </Row>
+        </>
     )
+
 }
-// 느린현상  production 모드로 변환하면 느린거 없어짐
+
 AppLayout.prototype = {
     children: PropTypes.node.isRequired
 }
