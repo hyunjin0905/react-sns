@@ -11,47 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0189b277-1203-488b-8cc3-51d383fb81d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/LoginForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/UserProfile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/pages/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/profile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/chunks/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/chunks/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/chunks/pages/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/pages/profile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/chunks/webpack.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/webpack.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/09fba399fc9d1ea92fe5.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/15ae15603f4b499b2db3.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/165ece704d3308406e3f.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/18b29227bacec43e6f90.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/2b72c0bd736034acf929.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/3098b77f280025db126c.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/36bab836b35784b3c07b.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/a07a075d050b47fbd1d9.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/a49ea6e90558ee3a0d5a.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/aefd641293126724cb85.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/b4e5031ca5995c41c4fe.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/bba8ad20810f5190694a.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/c04e6b1eec49f7520bba.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/c602fae994c0cd23b350.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/ca4987782d3017c6c5b0.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/cca50f9c02ca5e03df2f.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/df7fdabf644e436a9e14.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/e9da86bf6351bab96c21.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/ee0db2e8a71257a41b5d.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/f5034a55808fee18c282.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/pages/index.09fba399fc9d1ea92fe5.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/pages/index.165ece704d3308406e3f.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/pages/index.cca50f9c02ca5e03df2f.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/pages/index.f5034a55808fee18c282.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/pages/profile.a49ea6e90558ee3a0d5a.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/webpack/pages/profile.ee0db2e8a71257a41b5d.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/components/.eslintrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/AppLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/AppLayout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/profile.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +46,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -123,7 +88,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613999758938</updated>
-      <workItem from="1613999760022" duration="5392000" />
+      <workItem from="1613999760022" duration="5562000" />
+      <workItem from="1614166357648" duration="500000" />
+      <workItem from="1614260299142" duration="306000" />
+      <workItem from="1614494659495" duration="1328000" />
     </task>
     <servers />
   </component>
@@ -140,6 +108,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1496" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614000541634">
@@ -150,21 +119,25 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1209" y="337" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1614000238152" />
-    <state width="1878" height="300" key="GridCell.Tab.0.bottom" timestamp="1614007886634">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state width="939" height="300" key="GridCell.Tab.0.bottom" timestamp="1614008615690">
+      <screen x="-1920" y="25" width="1920" height="994" />
     </state>
     <state width="1878" height="300" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1614007886634" />
-    <state width="1878" height="300" key="GridCell.Tab.0.center" timestamp="1614007886633">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state width="939" height="300" key="GridCell.Tab.0.bottom/-1920.25.1920.994/0.25.1792.1095@-1920.25.1920.994" timestamp="1614008615690" />
+    <state width="939" height="300" key="GridCell.Tab.0.center" timestamp="1614008615689">
+      <screen x="-1920" y="25" width="1920" height="994" />
     </state>
     <state width="1878" height="300" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1614007886633" />
-    <state width="1878" height="300" key="GridCell.Tab.0.left" timestamp="1614007886631">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state width="939" height="300" key="GridCell.Tab.0.center/-1920.25.1920.994/0.25.1792.1095@-1920.25.1920.994" timestamp="1614008615689" />
+    <state width="939" height="300" key="GridCell.Tab.0.left" timestamp="1614008615689">
+      <screen x="-1920" y="25" width="1920" height="994" />
     </state>
     <state width="1878" height="300" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1614007886631" />
-    <state width="1878" height="300" key="GridCell.Tab.0.right" timestamp="1614007886633">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state width="939" height="300" key="GridCell.Tab.0.left/-1920.25.1920.994/0.25.1792.1095@-1920.25.1920.994" timestamp="1614008615689" />
+    <state width="939" height="300" key="GridCell.Tab.0.right" timestamp="1614008615690">
+      <screen x="-1920" y="25" width="1920" height="994" />
     </state>
     <state width="1878" height="300" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1614007886633" />
+    <state width="939" height="300" key="GridCell.Tab.0.right/-1920.25.1920.994/0.25.1792.1095@-1920.25.1920.994" timestamp="1614008615690" />
   </component>
 </project>
